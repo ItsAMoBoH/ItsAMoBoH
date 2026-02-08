@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **calculus and very soon programming**
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python** and **R**
 
 - 📫 How to reach me **moisesbolivarhz@gmail.com**
 
