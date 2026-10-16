@@ -1,7 +1,7 @@
 <h1 align="center">Hello There 👋, I'm Moisés Bolivar</h1>
 <h3 align="center">I'm a Statistics Student at UNAL</h3>
 
-- 💬 Ask me about **calculus and very soon programming**
+- 💬 Ask me about **Optimization Models,  Statistic Models, Data Science, and Predictive Analytics**
 
 - 🌱 I’m currently learning **Python** and **R**
 
